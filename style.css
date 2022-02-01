@@ -92,6 +92,19 @@ h6 {
     margin-top: 200px;
     margin-bottom: 100px;
 }
+.stckng {
+    float: left;
+}
+
+.table-shop {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+#pht-shp {
+    padding: 25px;
+    margin-right: 40px;
+}
 
 #cafe-desc {
     margin-top: 50px;
@@ -257,6 +270,8 @@ hr.frst {
     margin-left: 10px;
     color: #47474A;
 }
+
+
 
 
 
