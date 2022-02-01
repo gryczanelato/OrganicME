@@ -1,0 +1,262 @@
+body {
+    background-color: #F3EBE8;
+}
+
+.main {
+    width: 65%;
+}
+
+@font-face {
+    font-family: 'RedHatRegular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Red Hat Text Regular'), url('RedHatText-Regular.otf')
+    }
+
+@font-face {
+    font-family: 'RedHatBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Red Hat Text Bold'), url('RedHatText-Bold.otf') 
+    }
+
+h1 {
+    font-family: Stalemate;
+    font-size: 90px;
+    color: #C38A90;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+h2 {
+    font-family: RedHatRegular;
+    font-size: 30px;
+    color: #47474A;
+    margin-left: 80px;
+    margin-bottom: 50px; 
+}
+
+h3 {
+    font-family: RedHatRegular;
+    font-size: 22px;
+    color: #47474A;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+h4 {
+    font-family: Stalemate;
+    font-size: 60px;
+    color: #C38A90;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+h5 {
+    font-family: RedHatBold;
+    font-size: 20px;
+    color: #47474A;
+}
+
+h6 {
+    font-family: RedHatBold;
+    font-size: 30px;
+    color: #47474A;
+
+}
+
+#site-navbar {
+    background-color: #F3EBE8;
+    text-align: center;
+}
+
+#site-navbar > div > ul > li > .nav-link {
+    font-family: RedHatRegular;
+    font-size: 23px;
+    color: #47474A;
+    padding: 10px 30px;
+}
+
+.active, .nav-link:hover {
+    background-color: #C38A90;
+    color: #47474A;
+}
+#container {
+    align-content: center;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#shop-head {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+#cafe-desc {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.carousel-inner {
+    margin-top: 125px;
+}
+#menu-desc {
+    align-content: center;
+    text-align: center;
+    padding: 30px;
+}
+
+#menu-container {
+    align-content: center;
+    padding: 5px;
+}
+
+#menu-side {
+    align-content: center;
+    float: left;
+}
+
+#menu-head {
+    align-content: center;
+    text-align: center;
+}
+
+#mmenu2 {
+    background-color: #ffffff;
+    align-content: center;
+    text-align: center;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 75px;
+}
+
+#menulist {
+    align-content: left;
+    text-align: left;
+}
+
+.title-crss {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.grdn-pht {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.courses-desc {
+    text-align: center;
+    float: left;
+}
+
+.courses-sgn {
+    margin-top: 15px;
+    margin-left: 30px;
+    float: left;
+}
+
+#grdn-vid {
+    margin-top: 70px;
+}
+
+#hdr-content {
+    margin-top: 150px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.about-us {
+    text-align: center;
+    margin-bottom: 75px;
+    float: left;
+}
+
+.about-us-pht {
+    margin-top: 60px;
+    margin-bottom: 75px;
+    float: left;
+}
+
+.place-pht {
+    margin-top: 75px;
+    float: left;
+}
+
+.place {
+    text-align: center;
+    margin-top: 75px;
+    float: left;
+}
+
+.map-responsive{
+    margin-top: 70px;
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.custom-button {
+    background-color: #D9CCC5;
+    color: #47474A;
+    padding: 10px 35px;
+    font-family: RedHatBold;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.custom-button:hover {
+    background-color: #C38A90;
+    color: #47474A;
+}
+hr {
+    margin-top: 150px;
+}
+
+.custom-headin {
+    
+}
+
+#site-ft{
+    clear: both;
+}
+.ft-link {
+    font-family: RedHatRegular;
+    font-size: 16px;
+    color: #47474A;
+}
+
+b {
+    font-family: RedHatRegular;
+    font-size: 16px;
+    color: #47474A;
+}
+
+hr.frst {
+    border: 1px solid black;
+}
+
+.policy-link {
+    font-family: RedHatBold;
+    font-size: 15px;
+    margin-left: 10px;
+    color: #47474A;
+}
+
+
+
