@@ -55,7 +55,7 @@ h3 {
 
 @media only screen and (max-width: 601px) {
   h3 {
-    font-size: 13px;
+    font-size: 15px;
   }
 }
 
@@ -80,7 +80,7 @@ h5 {
 
 @media only screen and (max-width: 601px) {
   h5 {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 
