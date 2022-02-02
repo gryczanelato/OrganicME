@@ -86,13 +86,13 @@ h5 {
 
 h6 {
     font-family: RedHatBold;
-    font-size: 14px;
+    font-size: 30px;
     color: #47474A;
 }
 
 @media only screen and (max-width: 601px) {
   h6 {
-    font-size: 40px;
+    font-size: 14px;
   }
 }
 
