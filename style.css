@@ -1,5 +1,6 @@
 body {
     background-color: #F3EBE8;
+    font-size: clamp(100%, 1rem + 2vw, 24px);
 }
 
 .main {
