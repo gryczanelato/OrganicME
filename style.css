@@ -1,17 +1,3 @@
-html {
-  font-size: 16px;
-}
-@media screen and (min-width: 320px) {
-  html {
-    font-size: calc(16px + 8 * ((100vw - 320px) / 680));
-  }
-}
-@media screen and (min-width: 1000px) {
-  html {
-    font-size: 24px;
-  }
-}
-
 body {
     background-color: #F3EBE8;
 }
@@ -37,6 +23,7 @@ body {
 h1 {
     font-family: Stalemate;
     font-size: 90px;
+    font-size: 5.1vw;
     color: #C38A90;
     margin-left: 50px;
     margin-top: 20px;
@@ -45,6 +32,7 @@ h1 {
 h2 {
     font-family: RedHatRegular;
     font-size: 30px;
+    font-size: 1.5vw;
     color: #47474A;
     margin-left: 80px;
     margin-bottom: 50px; 
@@ -53,6 +41,7 @@ h2 {
 h3 {
     font-family: RedHatRegular;
     font-size: 22px;
+    font-size: 1vw;
     color: #47474A;
     margin-left: 20px;
     margin-top: 50px;
@@ -61,6 +50,7 @@ h3 {
 h4 {
     font-family: Stalemate;
     font-size: 60px;
+    font-size: 1vw;
     color: #C38A90;
     margin-left: 50px;
     margin-top: 20px;
@@ -69,14 +59,15 @@ h4 {
 h5 {
     font-family: RedHatBold;
     font-size: 20px;
+    font-size: 1vw;
     color: #47474A;
 }
 
 h6 {
     font-family: RedHatBold;
     font-size: 30px;
+    font-size: 1vw;
     color: #47474A;
-
 }
 
 #site-navbar {
