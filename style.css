@@ -24,7 +24,6 @@ h1 {
     font-family: Stalemate;
     font-size: 90px;
     color: #C38A90;
-    margin-left: 50px;
     margin-top: 20px;
 }
 
@@ -38,24 +37,39 @@ h2 {
     font-family: RedHatRegular;
     font-size: 30px;
     color: #47474A;
-    margin-left: 80px;
     margin-bottom: 50px; 
+}
+
+@media only screen and (max-width: 601px) {
+  h2 {
+    font-size: 14px;
+  }
 }
 
 h3 {
     font-family: RedHatRegular;
     font-size: 22px;
     color: #47474A;
-    margin-left: 20px;
     margin-top: 50px;
+}
+
+@media only screen and (max-width: 601px) {
+  h3 {
+    font-size: 10px;
+  }
 }
 
 h4 {
     font-family: Stalemate;
     font-size: 60px;
     color: #C38A90;
-    margin-left: 50px;
     margin-top: 20px;
+}
+
+@media only screen and (max-width: 601px) {
+  h4 {
+    font-size: 28px;
+  }
 }
 
 h5 {
@@ -64,12 +78,23 @@ h5 {
     color: #47474A;
 }
 
+@media only screen and (max-width: 601px) {
+  h5 {
+    font-size: 9px;
+  }
+}
+
 h6 {
     font-family: RedHatBold;
-    font-size: 30px;
+    font-size: 14px;
     color: #47474A;
 }
 
+@media only screen and (max-width: 601px) {
+  h6 {
+    font-size: 40px;
+  }
+}
 
 #site-navbar {
     background-color: #F3EBE8;
