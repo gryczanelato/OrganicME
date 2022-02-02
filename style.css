@@ -25,6 +25,7 @@ body {
     font-style: normal;
     font-weight: normal;
     src: local('Stalemate Regular', url('Stalemate-Regular.ttf')
+    }
 
 h1 {
     font-family: Stalemate;
