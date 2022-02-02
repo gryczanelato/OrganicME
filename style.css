@@ -23,7 +23,6 @@ body {
 h1 {
     font-family: Stalemate;
     font-size: 90px;
-    font-size: 5.4vw;
     color: #C38A90;
     margin-left: 50px;
     margin-top: 20px;
@@ -32,7 +31,6 @@ h1 {
 h2 {
     font-family: RedHatRegular;
     font-size: 30px;
-    font-size: 1.7vw;
     color: #47474A;
     margin-left: 80px;
     margin-bottom: 50px; 
@@ -41,7 +39,6 @@ h2 {
 h3 {
     font-family: RedHatRegular;
     font-size: 22px;
-    font-size: 1.2vw;
     color: #47474A;
     margin-left: 20px;
     margin-top: 50px;
@@ -50,7 +47,6 @@ h3 {
 h4 {
     font-family: Stalemate;
     font-size: 60px;
-    font-size: 1vw;
     color: #C38A90;
     margin-left: 50px;
     margin-top: 20px;
@@ -59,16 +55,15 @@ h4 {
 h5 {
     font-family: RedHatBold;
     font-size: 20px;
-    font-size: 1vw;
     color: #47474A;
 }
 
 h6 {
     font-family: RedHatBold;
     font-size: 30px;
-    font-size: 1vw;
     color: #47474A;
 }
+
 
 #site-navbar {
     background-color: #F3EBE8;
