@@ -1,6 +1,9 @@
+html {
+  font-size: min(max(1rem, 4vw), 24px);
+}
+
 body {
     background-color: #F3EBE8;
-    font-size: clamp(100%, 1rem + 2vw, 24px);
 }
 
 .main {
