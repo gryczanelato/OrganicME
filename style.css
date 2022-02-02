@@ -20,13 +20,6 @@ body {
     src: local('Red Hat Text Bold'), url('RedHatText-Bold.otf') 
     }
 
-@font-face {
-    font-family: 'Stalemate';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Stalemate', url('Stalemate-Regular.ttf')
-    }
-
 h1 {
     font-family: Stalemate;
     font-size: 90px;
