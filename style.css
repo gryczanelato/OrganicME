@@ -159,17 +159,17 @@ h6 {
     padding: 5px;
 }
 
-#menu-side {
+.menu-side {
     align-content: center;
     float: left;
 }
 
-#menu-head {
+.menu-head {
     align-content: center;
     text-align: center;
 }
 
-#mmenu2 {
+.mmenu2 {
     background-color: #ffffff;
     align-content: center;
     text-align: center;
