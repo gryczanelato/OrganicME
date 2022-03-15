@@ -64,6 +64,7 @@ h3 {
 h4 {
     font-family: Stalemate;
     font-size: 60px;
+    text-shadow:2px 2px #47474A;
     color: #C38A90;
     margin-top: 20px;
 }
