@@ -112,8 +112,8 @@ h6 {
 }
 
 .active, .nav-link:hover {
-    background-color: #A87175;
-    color: #F1F0F1;
+    background-color: #D9CCC5;
+    color: #47474A;
 }
 #container {
     align-content: center;
