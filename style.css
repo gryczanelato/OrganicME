@@ -65,7 +65,7 @@ h4 {
     font-family: Stalemate;
     font-size: 60px;
     text-shadow:2px 2px #47474A;
-    color: #C38A90;
+    color: #A87175;
     margin-top: 20px;
 }
 
@@ -112,7 +112,7 @@ h6 {
 }
 
 .active, .nav-link:hover {
-    background-color: #C38A90;
+    background-color: #A87175;
     color: #47474A;
 }
 #container {
@@ -268,7 +268,7 @@ h6 {
 }
 
 .custom-button:hover {
-    background-color: #C38A90;
+    background-color: #A87175;
     color: #47474A;
 }
 hr {
