@@ -104,7 +104,7 @@ h6 {
     text-align: center;
 }
 
-#site-navbar > div > ul > li > .nav-link {
+.nav-link {
     font-family: RedHatRegular;
     font-size: 23px;
     color: #47474A;
