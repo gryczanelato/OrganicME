@@ -271,6 +271,22 @@ h6 {
     background-color: #A87175;
     color: #F1F0F1;
 }
+
+.custom-button2 {
+    background-color: #D9CCC5;
+    color: #47474A;
+    padding: 10px 35px;
+    font-family: RedHatBold;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.custom-button2:hover {
+    background-color: #A87175;
+    color: #F1F0F1;
+}
+
 hr {
     margin-top: 150px;
 }
