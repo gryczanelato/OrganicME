@@ -64,6 +64,14 @@
         </div>
     </nav>
     
+    <script>
+        function enlargeText(x) {
+          x.style.fontSize = "25px";
+        }
+        function normaText(x) {
+          x.style.fontSize = "22px";
+        }
+    </script>
     
     <div class="table-shop">
         <div id="shop-head" class="text-center">
@@ -72,7 +80,7 @@
         <table style="width:70%"class="stckng table-shop table table-responsive">
             <tbody>
                 <tr>
-                    <td style="width:50%"><h2>Ceramic Honey Pot</h2></td>
+                    <td style="width:50%"><h2 onmouseover="enlargeText(this)" onmouseout="normalText(this)">Ceramic Honey Pot</h2></td>
                     <td style="width:20%"><h6>£20.00</h6></td>
                 </tr>
                 <tr>
